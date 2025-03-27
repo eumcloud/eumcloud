@@ -8,9 +8,7 @@
 안녕하세요! **현**입니다. 산업트렌드에 맞는 웹/앱 애플리케이션 및 AI 서비스를 개발하는 것을 선호합니다.
 
 - 🔭 현재 작업 중인 프로젝트: **sLLM RAG 문서제작서비스**
-- 🌱 현재 학습 중인 기술: LLM & sLLM & sLM
 - 👯 협업을 원하는 프로젝트: 오픈 소스 AI 프로젝트 
-- 😄 프로필: he/him
 
 ---
 bedge
@@ -31,35 +29,11 @@ bedge
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 
----
-
-## 📈 GitHub Stats
-
-![이충현's GitHub stats](https://github-readme-stats.vercel.app/api?username=eumcloud&show_icons=true&theme=radical)
-
----
-
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eumcloud&repo=algorithmic-trading&theme=radical)](https://github.com/eumcloud/algorithmic-trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eumcloud&repo=nft-service&theme=radical)](https://github.com/eumcloud/nft-service)
-
----
-
 ## 💼 Career
 - **서비스 기획 및 개발**
-  - React/Node.js를 활용한 증권사 알고리즘 매매 서비스 개발
-  - Python/GoogleAPI를 활용한 금융 데이터 수집 서버 및 ML/DL 러닝 알고리즘 매매 개발
-  - NFT 서비스 기획 및 개발
+  - React/Node.js를 활용 증권 매매 UI + 서버 개발
+  - Python/GoogleAPI를 활용 금융시계열 데이터 수집 + MLOps Pipeline 
   
-
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [React와 Node.js를 활용한 증권사 알고리즘 매매 서비스 개발](#)
-- [Python과 GoogleAPI를 활용한 금융 데이터 수집 및 ML/DL 러닝](#)
-- [NFT 서비스 기획 및 개발 경험](#)
-<!-- BLOG-POST-LIST:END -->
-
+ 
 ---
  
